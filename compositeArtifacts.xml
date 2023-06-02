@@ -3,12 +3,13 @@
 <repository name='&quot;AMASE Composite P2 Update Site&quot;'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1646226995140'/>
+    <property name='p2.timestamp' value='1685705333316'/>
   </properties>
-  <children size='4'>
+  <children size='5'>
     <child location='amase_1.0.0'/>
     <child location='amase_1.1.0'/>
     <child location='amase_1.2.0'/>
     <child location='amase_1.3.0'/>
+    <child location='amase_1.4.0'/>
   </children>
 </repository>
